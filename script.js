@@ -3,13 +3,13 @@ const songs = [
   {
     title: "What You Want",
     artist: "CORTIS",
-    file: "CORTIS - What You Want.mp3",
+    file: "WhatYouWant.mp3",
     cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUMVhaQmgJHo7p2UfoSJwSOUkgM2JCUFBl3Q&s"
   },
   {
     title: "Song of the Stars",
     artist: "TOMORROW X TOGETHER",
-    file: "TXT_-_Song_of_the_Stars_(mp3.pm).mp3",
+    file: "SongoftheStars.mp3",
     cover: "https://upload.wikimedia.org/wikipedia/id/c/c4/Tomorrow_X_Together_-_The_Star_Chapter_Together.png"
   },
   {
@@ -21,7 +21,7 @@ const songs = [
   {
     title: "Deja Vu",
     artist: "TOMORROW X TOGETHER",
-    file: "TXT - Deja Vu.mp3",
+    file: "DejaVu.mp3",
     cover: "https://upload.wikimedia.org/wikipedia/id/e/ea/TXT_-_Minisode_3_Tomorrow.png"
   },
   {
@@ -39,7 +39,7 @@ const songs = [
   {
     title: "0X1=LOVESONG",
     artist: "TOMORROW X TOGETHER",
-    file: "0X1=LOVESONG (I Know I Love You) (feat. Seori).m4a",
+    file: "0X1LOVESONG.m4a",
     cover: "https://upload.wikimedia.org/wikipedia/id/6/6a/The_Chaos_Chapter_-_Freeze.png"
   },
   {
@@ -401,3 +401,4 @@ function formatTime(sec) {
 
 /* ===== START ===== */
 init();
+
