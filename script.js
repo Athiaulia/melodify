@@ -27,7 +27,7 @@ const songs = [
   {
     title: "Butter",
     artist: "BTS",
-    file: "/emlodify/Butter.m4a",
+    file: "/melodify/Butter.m4a",
     cover: "https://upload.wikimedia.org/wikipedia/en/d/db/BTS_-_Butter.png"
   },
   {
@@ -401,6 +401,7 @@ function formatTime(sec) {
 
 /* ===== START ===== */
 init();
+
 
 
 
