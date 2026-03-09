@@ -3,55 +3,55 @@ const songs = [
   {
     title: "What You Want",
     artist: "CORTIS",
-    file: "WhatYouWant.mp3",
+    file: "/melodify/WhatYouWant.mp3",
     cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUMVhaQmgJHo7p2UfoSJwSOUkgM2JCUFBl3Q&s"
   },
   {
     title: "Song of the Stars",
     artist: "TOMORROW X TOGETHER",
-    file: "SongoftheStars.mp3",
+    file: "/melodify/SongoftheStars.mp3",
     cover: "https://upload.wikimedia.org/wikipedia/id/c/c4/Tomorrow_X_Together_-_The_Star_Chapter_Together.png"
   },
   {
     title: "Dynamite",
     artist: "BTS",
-    file: "Dynamite.mp3",
+    file: "/melodify/Dynamite.mp3",
     cover: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/BTS_Dynamite_%28NightTime_Version%29.svg/500px-BTS_Dynamite_%28NightTime_Version%29.svg.png"
   },
   {
     title: "Deja Vu",
     artist: "TOMORROW X TOGETHER",
-    file: "DejaVu.mp3",
+    file: "/melodify/DejaVu.mp3",
     cover: "https://upload.wikimedia.org/wikipedia/id/e/ea/TXT_-_Minisode_3_Tomorrow.png"
   },
   {
     title: "Butter",
     artist: "BTS",
-    file: "Butter.m4a",
+    file: "/emlodify/Butter.m4a",
     cover: "https://upload.wikimedia.org/wikipedia/en/d/db/BTS_-_Butter.png"
   },
   {
     title: "Lights",
     artist: "BTS",
-    file: "Lights.m4a",
+    file: "/melodify/Lights.m4a",
     cover: "https://t2.genius.com/unsafe/387x387/https%3A%2F%2Fimages.genius.com%2F652e45bc76841bc9fa933df382187149.593x593x1.jpg"
   },
   {
     title: "0X1=LOVESONG",
     artist: "TOMORROW X TOGETHER",
-    file: "0X1LOVESONG.m4a",
+    file: "/melodify/0X1LOVESONG.m4a",
     cover: "https://upload.wikimedia.org/wikipedia/id/6/6a/The_Chaos_Chapter_-_Freeze.png"
   },
   {
     title: "JoyRide",
     artist: "CORTIS",
-    file: "JoyRide.m4a",
+    file: "/melodify/JoyRide.m4a",
     cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUMVhaQmgJHo7p2UfoSJwSOUkgM2JCUFBl3Q&s"
   },
   {
     title: "FaSHioN",
     artist: "CORTIS",
-    file: "FaSHioN.m4a",
+    file: "/melodify/FaSHioN.m4a",
     cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUMVhaQmgJHo7p2UfoSJwSOUkgM2JCUFBl3Q&s"
   }
 ];
@@ -401,4 +401,5 @@ function formatTime(sec) {
 
 /* ===== START ===== */
 init();
+
 
